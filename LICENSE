@@ -1,6 +1,26 @@
 MIT License
 
-Copyright (c) 2025 BANDHAKAVI SAI ASHISH
+Custom Research Protection License (CRPL-1.0)
+Copyright (c) 2025 Bandhakavi Sai Ashish
+
+This project and its associated code, documentation, and datasets are proprietary and protected intellectual property of the author(s).
+
+Permission is hereby granted to view, download, and reference this repository **for educational and academic research purposes only**.
+
+🔒 You MAY NOT:
+- Copy, modify, or redistribute this work in any form without written consent.
+- Use this project, in whole or part, for any commercial, corporate, or institutional gain.
+- Claim ownership, re-upload, or represent this work as your own.
+- Use this project to train, test, or benchmark AI models without explicit permission.
+
+⚖️ Violations of these terms may result in legal action under the Indian Copyright Act (1957) and international intellectual property treaties.
+
+🧾 Attribution Requirement:
+Any derivative, citation, or mention of this work **must credit:**
+> "Bandhakavi Sai Ashish, Drug Screening Using Stem Cell Technology, 2025."
+
+🚫 “Copying isn’t innovation. Respect originality.”
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
