@@ -35,3 +35,12 @@ This work integrates **machine learning (ML)** with **stem cell biology** to enh
 ---
 
 ### 📁 Repository Structure
+📦 Drug-Screening-using-Stem-Cell-Technology
+ ┣ 📄 Acceptance_Letter_STM_Journals_Drug_Design.pdf
+ ┣ 📄 Drug_Screening_Using_Stem_Cell_Technology_ETESM2025_CameraReady.pdf
+ ┣ 📓 Drug_screening_using_stem_cell_technology_final_code.ipynb
+ ┣ 📄 drug_screening_usin_stem_cell_technology.csv
+ ┣ 📜 README.md
+ ┣ 📜 LICENSE
+ ┗ 📄 .gitattributes
+
